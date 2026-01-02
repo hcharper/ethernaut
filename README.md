@@ -1,7 +1,3 @@
-# Sample Hardhat 3 Beta Project (minimal)
+This project is my documented playthrough of Open Zeppelin's "Ethernaut"
 
-This project has a minimal setup of Hardhat 3 Beta, without any plugins.
-
-## What's included?
-
-The project includes native support for TypeScript, Hardhat scripts, tasks, and support for Solidity compilation and tests.
+** This README will be updated as my playthrough progresses...
