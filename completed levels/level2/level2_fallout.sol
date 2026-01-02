@@ -4,7 +4,7 @@ pragma solidity ^0.6.0;         // remember, want static version for production
 import "openzeppelin-contracts-06/math/SafeMath.sol";
 
 contract Fallout {
-    using SafeMath for uint256;
+    // using SafeMath for uint256;
 
     mapping(address => uint256) allocations;
     address payable public owner;
